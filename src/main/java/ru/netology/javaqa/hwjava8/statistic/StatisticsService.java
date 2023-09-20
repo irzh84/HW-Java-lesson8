@@ -1,4 +1,5 @@
 package ru.netology.javaqa.hwjava8.statistic;
+
 public class StatisticsService {
     public long findMax(long[] incomes) {
         long currentMax = incomes[0];
